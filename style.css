@@ -129,7 +129,7 @@ header {
   .socials {
   display: flex;
     flex-direction: row;
-    align-items: left;
+    align-items: center;
     justify-content: space-between;
     padding: 0px;
     max-width: 17%;
