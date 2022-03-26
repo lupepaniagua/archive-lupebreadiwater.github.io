@@ -8,6 +8,8 @@
         <link rel="icon" href="assets/icons/fav-icon.svg">
         <!-- stylesheets here -->
         <link rel="stylesheet" type="text/css" href="style.css">
+        <link rel="preload" href="assets/fonts/RNSPhysis/RNSPhysis-Medium.woff2" as="font" type="font/woff2" crossorigin>
+
     </head>
     <body class="home">
         <header>
@@ -19,8 +21,8 @@
             </div>
         </header>
         <section>
-            <div style="padding-top: 3rem;">
-                <h2>featured projects</h2>
+            <div>
+                <h1 style="margin-bottom: 1rem;">featured projects</h1>
             </div>
             <div class="project-row">
                 <div class="mobile-view">
@@ -32,7 +34,7 @@
                             <button type="button" class="secondary">personal</button>
                             <button type="button" class="secondary">product design</button>
                             <button type="button" class="secondary">ui/ux design</button>
-                            <button type="button" class="secondary">case study</button>
+                            <button type="button" class="secondary" id="overflow-button">case study</button>
                         </div>
                     </div>
                 </div>
@@ -45,7 +47,7 @@
                         <div>
                             <button type="button" class="secondary">web development design</button>
                             <button type="button" class="secondary">ui design</button>
-                            <button type="button" class="secondary">product design</button>
+                            <button type="button" class="secondary" id="overflow-button">product design</button>
                         </div>
                     </div>
                 </div>
@@ -72,7 +74,7 @@
                             <button type="button" class="secondary">personal</button>
                             <button type="button" class="secondary">web development</button>
                             <button type="button" class="secondary">ui/ux design</button>
-                            <button type="button" class="secondary">product design</button>
+                            <button type="button" class="secondary" id="overflow-button">product design</button>
                         </div>
                     </div>
                 </div>
@@ -149,15 +151,15 @@
         </section>
         <footer>
             <div>
-                <h2 class="fancy-font"> thanks for stopping by.</h2>
+                <h2 class="fancy-font" style="color: #2758BE;"> thanks for stopping by.</h2>
             </div>
-            <h3>let's get in touch!</h3>
-            <div class="socials">
+            <h3 style="margin-top: 0; margin-bottom: 0.5rem;">let's get in touch!</h3>
+            <div class='socials'>
                 <a href="mailto:lupepaniagua@berkeley.edu"><img src='./assets/icons/email.svg'/></a>
                 <a href="https://twitter.com/lupebreadiwater" target="_blank"><img src='./assets/icons/twitter.svg'/></a>
-                <a href="https://calendly.com/lupepaniagua/30min?month=2021-10" target="_blank"><img src='./assets/icons/calendly.svg'/></a>
+                <a href="https://calendly.com/lupepaniagua/30min?month=2021-10" target="_blank" style="padding-top: 0.5rem;"><img src='./assets/icons/calendly.svg'/></a>
                 <a href="https://www.linkedin.com/in/lupepaniagua/" target="_blank"><img src='./assets/icons/linkedin.svg'/></a>
-            </div>
+              </div>
         </footer>
     </body>
 </html>

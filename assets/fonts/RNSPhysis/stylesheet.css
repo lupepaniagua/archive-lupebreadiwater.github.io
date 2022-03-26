@@ -1,0 +1,300 @@
+@font-face {
+    font-family: 'RNS Physis';
+    src: url('RNSPhysis-Medium.woff2') format('woff2'),
+        url('RNSPhysis-Medium.woff') format('woff'),
+        url('RNSPhysis-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'RNS Physis';
+    src: url('RNSPhysis-BlackItalic.woff2') format('woff2'),
+        url('RNSPhysis-BlackItalic.woff') format('woff'),
+        url('RNSPhysis-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'RNS Physis';
+    src: url('RNSPhysis-MediumItalic.woff2') format('woff2'),
+        url('RNSPhysis-MediumItalic.woff') format('woff'),
+        url('RNSPhysis-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'RNS Physis';
+    src: url('RNSPhysis-Bold.woff2') format('woff2'),
+        url('RNSPhysis-Bold.woff') format('woff'),
+        url('RNSPhysis-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'RNS Physis';
+    src: url('RNSPhysis-BoldItalic.woff2') format('woff2'),
+        url('RNSPhysis-BoldItalic.woff') format('woff'),
+        url('RNSPhysis-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'RNS Physis';
+    src: url('RNSPhysis-Black.woff2') format('woff2'),
+        url('RNSPhysis-Black.woff') format('woff'),
+        url('RNSPhysis-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'RNS Physis';
+    src: url('RNSPhysis-Light.woff2') format('woff2'),
+        url('RNSPhysis-Light.woff') format('woff'),
+        url('RNSPhysis-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'RNS Physis';
+    src: url('RNSPhysis-LightItalic.woff2') format('woff2'),
+        url('RNSPhysis-LightItalic.woff') format('woff'),
+        url('RNSPhysis-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'RNS Physis';
+    src: url('RNSPhysis-ThinItalic.woff2') format('woff2'),
+        url('RNSPhysis-ThinItalic.woff') format('woff'),
+        url('RNSPhysis-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'RNS Physis';
+    src: url('RNSPhysis-Thin.woff2') format('woff2'),
+        url('RNSPhysis-Thin.woff') format('woff'),
+        url('RNSPhysis-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'RNS Physis';
+    src: url('RNSPhysis-Black_1.woff2') format('woff2'),
+        url('RNSPhysis-Black_1.woff') format('woff'),
+        url('RNSPhysis-Black_1.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'RNS Physis';
+    src: url('RNSPhysis-BlackItalic_1.woff2') format('woff2'),
+        url('RNSPhysis-BlackItalic_1.woff') format('woff'),
+        url('RNSPhysis-BlackItalic_1.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'RNS Physis';
+    src: url('RNSPhysis-Bold_1.woff2') format('woff2'),
+        url('RNSPhysis-Bold_1.woff') format('woff'),
+        url('RNSPhysis-Bold_1.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'RNS Physis';
+    src: url('RNSPhysis-BoldItalic_1.woff2') format('woff2'),
+        url('RNSPhysis-BoldItalic_1.woff') format('woff'),
+        url('RNSPhysis-BoldItalic_1.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'RNS Physis';
+    src: url('RNSPhysis-LightItalic_1.woff2') format('woff2'),
+        url('RNSPhysis-LightItalic_1.woff') format('woff'),
+        url('RNSPhysis-LightItalic_1.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'RNS Physis';
+    src: url('RNSPhysis-MediumItalic_1.woff2') format('woff2'),
+        url('RNSPhysis-MediumItalic_1.woff') format('woff'),
+        url('RNSPhysis-MediumItalic_1.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'RNS Physis';
+    src: url('RNSPhysis-Medium_1.woff2') format('woff2'),
+        url('RNSPhysis-Medium_1.woff') format('woff'),
+        url('RNSPhysis-Medium_1.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'RNS Physis';
+    src: url('RNSPhysis-Thin_1.woff2') format('woff2'),
+        url('RNSPhysis-Thin_1.woff') format('woff'),
+        url('RNSPhysis-Thin_1.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'RNS Physis';
+    src: url('RNSPhysis-Light_1.woff2') format('woff2'),
+        url('RNSPhysis-Light_1.woff') format('woff'),
+        url('RNSPhysis-Light_1.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'RNS Physis';
+    src: url('RNSPhysis-ThinItalic_1.woff2') format('woff2'),
+        url('RNSPhysis-ThinItalic_1.woff') format('woff'),
+        url('RNSPhysis-ThinItalic_1.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'RNS Physis';
+    src: url('RNSPhysis-Black_2.woff2') format('woff2'),
+        url('RNSPhysis-Black_2.woff') format('woff'),
+        url('RNSPhysis-Black_2.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'RNS Physis';
+    src: url('RNSPhysis-BoldItalic_2.woff2') format('woff2'),
+        url('RNSPhysis-BoldItalic_2.woff') format('woff'),
+        url('RNSPhysis-BoldItalic_2.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'RNS Physis';
+    src: url('RNSPhysis-BlackItalic_2.woff2') format('woff2'),
+        url('RNSPhysis-BlackItalic_2.woff') format('woff'),
+        url('RNSPhysis-BlackItalic_2.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'RNS Physis';
+    src: url('RNSPhysis-Bold_2.woff2') format('woff2'),
+        url('RNSPhysis-Bold_2.woff') format('woff'),
+        url('RNSPhysis-Bold_2.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'RNS Physis';
+    src: url('RNSPhysis-MediumItalic_2.woff2') format('woff2'),
+        url('RNSPhysis-MediumItalic_2.woff') format('woff'),
+        url('RNSPhysis-MediumItalic_2.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'RNS Physis';
+    src: url('RNSPhysis-ThinItalic_2.woff2') format('woff2'),
+        url('RNSPhysis-ThinItalic_2.woff') format('woff'),
+        url('RNSPhysis-ThinItalic_2.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'RNS Physis';
+    src: url('RNSPhysis-Medium_2.woff2') format('woff2'),
+        url('RNSPhysis-Medium_2.woff') format('woff'),
+        url('RNSPhysis-Medium_2.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'RNS Physis';
+    src: url('RNSPhysis-Light_2.woff2') format('woff2'),
+        url('RNSPhysis-Light_2.woff') format('woff'),
+        url('RNSPhysis-Light_2.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'RNS Physis';
+    src: url('RNSPhysis-LightItalic_2.woff2') format('woff2'),
+        url('RNSPhysis-LightItalic_2.woff') format('woff'),
+        url('RNSPhysis-LightItalic_2.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'RNS Physis';
+    src: url('RNSPhysis-Thin_2.woff2') format('woff2'),
+        url('RNSPhysis-Thin_2.woff') format('woff'),
+        url('RNSPhysis-Thin_2.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+

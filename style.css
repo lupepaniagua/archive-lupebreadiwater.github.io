@@ -4,23 +4,36 @@
     --white: #FFFFFF;
 }
 
-@font-face {
-    font-family: 'coolvetica';
-    src: url(assets/fonts/coolvetica-rg.ttf) format('truetype');
 
+ @font-face {
     font-family: 'blisstwin';
     src: url(assets/fonts/Blisstwin.ttf) format('truetype');
 }
 
-h1, h2, h3, p {
+p {
     color: #2A3139;
-    font-family: 'coolvetica';
-    font-weight: regular;
+    font-family: 'RNS Physis';
+    font-weight: 500;
+    font-style: normal;
+
 }
+
+h1, h2, h3, button, a {
+  color: #2A3139;
+    font-family: 'RNS Physis';
+    font-weight: bold;
+    font-style: normal;
+}
+
+b {
+  font-family: 'RNS Physis';
+    font-weight: 900;
+    font-style: normal;
+}
+
 
 h1{
     font-size: 2.5rem;
-    margin: 2rem 0;
 }
 
 h2{
@@ -33,7 +46,6 @@ h3{
 
 p {
     font-size: 1rem;
-    letter-spacing: 0.1px;
 }
 
 header {
@@ -70,14 +82,12 @@ header {
   }
   
   button {
-    font-family: 'coolvetica';
     border: 2px solid #2758BE;
     border-radius: 0.5em;
     cursor: pointer;
     display: inline-block;
     line-height: 1;
     margin: 0;
-    letter-spacing: 1px;
   }
   
   button.primary {
@@ -85,14 +95,14 @@ header {
     background-color: white;
     box-shadow: 4px 4px 0px #2758BE;
     font-size: 20px;
-    padding: 11px 20px;
+    padding: 11px 20px 15px 20px;
   }
   
   button.secondary {
     color: white;
     background-color: #2758BE;
     padding: 10px 13px;
-    font-weight: lighter;
+    font-weight: normal;
   }
 
   button.dark {
@@ -101,7 +111,7 @@ header {
     background-color: white;
     box-shadow: 4px 4px 0px #2A3139;
     font-size: 20px;
-    padding: 11px 20px;
+    padding: 11px 20px 15px 20px;
   }
 
   button.dark:hover {
@@ -119,7 +129,7 @@ header {
   .landing-text {
     position: left;
     width: 90%;
-    margin-top: 23%;
+    margin-top: 20%;
   }
   
   .landing-text h2 {
@@ -127,7 +137,7 @@ header {
   }
   
   .socials {
-  display: flex;
+    display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
@@ -138,18 +148,18 @@ header {
 a {
   text-decoration: none;
   color: #2758BE;
-  font-family: 'coolvetica';
+  font-family: 'RNS Physis';
 }
 
 a:hover {
   text-decoration: solid underline #2758BE;
-  font-weight: bold;
-  font-family: 'coolvetica';
+  font-family: 'RNS Physis';
+  font-weight: 900;
 }
 
 #current-page {
   color: #2758BE;
-  font-family: 'coolvetica';
+  font-family: 'RNS Physis';
 }
 
 footer {
@@ -171,17 +181,18 @@ footer {
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    margin: 5% 0 1% 0;
+    margin: 0 0 1% 0;
 }
 
 .container {
-  padding: 0 9% 0 9%;
+  padding: 0 7% 0 5%;
   margin: auto;
 }
 
 .img-of-me {
-  height: 20rem;
+  height: 25rem;
   width: auto;
+  cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='60' height='72' viewport='0 0 100 100' style='fill:black;font-size:36px;'><text y='50%'>✨</text></svg>") 16 0,auto; 
 }
 
 .row-box {
@@ -218,7 +229,7 @@ footer {
   flex-direction: row;
   justify-content: space-between;
   align-items: flex-start;
-  margin: 3% auto 0 auto;
+  margin: 2% auto 0 auto;
 }
 
 .project-box {
@@ -229,6 +240,7 @@ footer {
   height: 400px;
   object-fit: cover;
   margin-top: 2%;
+  cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='60' height='72' viewport='0 0 100 100' style='fill:black;font-size:36px;'><text y='50%'>🧸</text></svg>") 16 0,auto; 
 }
 
 .project-desc {
@@ -246,11 +258,26 @@ footer {
 
 
 @media screen and (max-width: 590px) {
+
+  h1 {
+    font-size: 2rem;
+  }
+
+  h2 {
+    font-size: 1.3rem;
+  }
+
+  p {
+    font-size: 1rem;
+  }
+
   header {
     flex-direction: column;
     margin-top: 2.3rem;
     align-items: center;
+    font-size: 1.3rem;
   }
+  
   .landing-text {
     width: 100%;
     margin-top: 45%;
@@ -258,12 +285,23 @@ footer {
   .socials {
     max-width: 40%;
   }
+
+  .socials img {
+    padding-right: 1rem;
+  }
   .about-desc {
     flex-direction: column;
-    margin-top: 5rem;
+    margin-top: 3rem;
   }
   .container {
     padding: 0;
+  }
+  #overflow-button {
+    margin-top: 0.3rem;
+  }
+
+  .img-of-me {
+    height: 20rem;
   }
   .row-box {
     display: inline;
@@ -274,7 +312,12 @@ footer {
   .img-gallery {
     flex-direction: row;
     width: 100%;
+    margin-bottom: 2rem;
   }
+  .image-box {
+    margin-right: 0.5rem;
+  }
+
   footer {
     margin-top: 10%;
   }
