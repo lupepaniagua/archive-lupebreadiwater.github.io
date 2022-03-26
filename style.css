@@ -4,6 +4,7 @@
     --white: #FFFFFF;
 }
 
+@import url(assets/fonts/RNSPhysis/stylesheet.css);
 
  @font-face {
     font-family: 'blisstwin';
@@ -259,14 +260,8 @@ footer {
 
 @media screen and (max-width: 590px) {
 
-  @font-face {
-    font-family: 'RNS Physis';
-      src: url('assets/fonts/rnsphysis/RNSPhysis-Medium.woff2') format('woff2'),
-        url('assets/fonts/rnsphysis/RNSPhysis-Medium.woff') format('woff'),
-        url('assets/fonts/rnsphysis/RNSPhysis-Medium.ttf') format('truetype');
-      font-weight: 500;
-      font-style: normal;
-}
+  @import url(assets/fonts/RNSPhysis/stylesheet.css);
+
 
   h1 {
     font-size: 2rem;
