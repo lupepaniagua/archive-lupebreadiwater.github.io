@@ -261,12 +261,11 @@ footer {
 
   @font-face {
     font-family: 'RNS Physis';
-    src: url('RNSPhysis-Medium.woff2') format('woff2'),
-        url('RNSPhysis-Medium.woff') format('woff'),
-        url('RNSPhysis-Medium.ttf') format('truetype');
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
+      src: url('assets/fonts/rnsphysis/RNSPhysis-Medium.woff2') format('woff2'),
+        url('assets/fonts/rnsphysis/RNSPhysis-Medium.woff') format('woff'),
+        url('assets/fonts/rnsphysis/RNSPhysis-Medium.ttf') format('truetype');
+      font-weight: 500;
+      font-style: normal;
 }
 
   h1 {
