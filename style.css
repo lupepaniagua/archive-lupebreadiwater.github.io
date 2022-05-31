@@ -16,7 +16,6 @@ p {
     font-family: 'RNS Physis';
     font-weight: 500;
     font-style: normal;
-
 }
 
 h1, h2, h3, button, a {
@@ -24,6 +23,7 @@ h1, h2, h3, button, a {
     font-family: 'RNS Physis';
     font-weight: bold;
     font-style: normal;
+    letter-spacing: -1px;
 }
 
 b {
@@ -32,6 +32,9 @@ b {
     font-style: normal;
 }
 
+font, .fancy-font {
+  letter-spacing: 0px;
+}
 
 h1{
     font-size: 2.5rem;
@@ -89,6 +92,7 @@ header {
     display: inline-block;
     line-height: 1;
     margin: 0;
+    letter-spacing: 0px;
   }
   
   button.primary {
@@ -96,7 +100,7 @@ header {
     background-color: white;
     box-shadow: 4px 4px 0px #2758BE;
     font-size: 20px;
-    padding: 11px 20px 15px 20px;
+    padding: 10px 15px 15px 15px;
   }
   
   button.secondary {
@@ -153,7 +157,6 @@ a {
 }
 
 a:hover {
-  text-decoration: solid underline #2758BE;
   font-family: 'RNS Physis';
   font-weight: 900;
 }
@@ -186,6 +189,7 @@ footer {
     margin: 0 0 1% 0;
 }
 
+
 .container {
   padding: 0 7% 0 5%;
   margin: auto;
@@ -195,6 +199,8 @@ footer {
   height: 25rem;
   width: auto;
   cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='60' height='72' viewport='0 0 100 100' style='fill:black;font-size:36px;'><text y='50%'>✨</text></svg>") 16 0,auto; 
+  box-shadow: 0.7rem 0.7rem 0px var(--black);
+  border-radius: 1em;
 }
 
 .row-box {
