@@ -11,14 +11,14 @@
     src: url(assets/fonts/Blisstwin.ttf) format('truetype');
 }
 
-p {
+p, a {
     color: #2A3139;
     font-family: 'RNS Physis';
     font-weight: 500;
     font-style: normal;
 }
 
-h1, h2, h3, button, a {
+h1, h2, h3, button {
   color: #2A3139;
     font-family: 'RNS Physis';
     font-weight: bold;
