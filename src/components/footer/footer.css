@@ -1,0 +1,26 @@
+#boxContainer {
+    background-color: #202020;
+    color: white;
+    width: auto;
+    padding: 2.5rem 7.5rem;
+}
+
+#footerBoxes {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+/* media viewport responsiveness*/
+@media only screen and (max-width: 896px) {
+    #boxContainer {
+        padding: 2.5rem 1rem;
+    }
+
+    #footerBoxes {
+        display: flex;
+        flex-direction: column;
+        gap: 2rem;
+    }
+}

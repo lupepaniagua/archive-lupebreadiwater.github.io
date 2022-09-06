@@ -1,0 +1,62 @@
+.workContainer {
+    margin: 0 7.5rem 4.5rem 7.5rem;
+    width: auto;
+}
+
+.workContainer > h1 {
+    margin: 2rem auto 1.5rem auto;
+}
+
+#itemContainer {
+    display: flex;
+    gap: 2rem;
+    margin-bottom: 2rem;
+}
+
+#workInfo {
+    display: flex;
+    flex-direction: column;
+}
+
+#itemContainer > img {
+    width: 36.5vw;
+    height: auto;
+    border-radius: 0.625rem;
+}
+
+#labels {
+    display: flex;
+    gap: 0.375rem;
+    margin: 0.5rem 0;
+}
+
+#labels > span {
+    padding: 0.5rem 1rem;
+    background-color: #F4F4F4;
+    border-radius: 6.25rem;
+}
+
+#labels > span > p {
+    color: #8F8F8F;
+}
+
+#workTitle {
+    color: #202020;
+    margin: 1rem 0;
+    opacity: 1;
+    transition: opacity 0.3s ease-in-out 0s;
+}
+
+#workTitle:hover {
+    opacity: 0.5;
+    text-decoration: underline;
+}
+
+#workDate {
+    color: #8F8F8F;
+    margin-top: 0.5rem;
+}
+
+#tbd {
+    color: #8F8F8F;
+}

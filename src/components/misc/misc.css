@@ -1,0 +1,119 @@
+#galleryBox {
+    margin: 0 7.5rem 4.5rem 7.5rem;
+    width: auto;
+}
+
+#galleryBox > h1 {
+    margin: 2rem auto 1.5rem auto;
+}
+
+
+.galleryContainer {
+    column-count: 4;
+    column-gap: 2rem;
+}
+
+.images > img{
+    width: 100%;
+    margin-bottom: 2rem;
+}
+
+.galleryContainer .images {
+    transition: all 350ms ease;
+    cursor: pointer;
+}
+
+.images > img:hover {
+    filter: opacity(0.7);
+}
+
+/* modal pop-up */
+.modal {
+    width: 100%;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #202020;
+    transition: opacity 0.4s ease, visibility 0.4s ease, transform 0.5s ease-in-out;
+    visibility: hidden;
+    opacity: 0;
+    transform: scale(0);
+    z-index: 1000;
+    overflow-y: auto;
+}
+
+.modal.open{
+    visibility: visible;
+    opacity: 1;
+    transform: scale(1);
+}
+
+.modal > img {
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    max-height: 100%;
+    display: block;
+    line-height: 0;
+    box-sizing: border-box;
+    padding: 2rem 0 1.5rem 0;
+    margin: 0 auto;
+}
+
+.modal p {
+    color: #C4C4C4;
+}
+
+.modal.open > button {
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 23px;
+    background: #202020;
+    border: 2px solid #333333;
+    transition: all 0.3s ease-out 0s;
+}
+
+/* close icon*/
+.modal.open > button > img{
+    width: 0.7rem;
+    height: auto;
+}
+
+.modal.open > button:hover {
+    transition: all 0.3s ease-out 0s;
+    cursor: pointer;
+    background-color: #333333;
+}
+
+
+/* media viewport responsiveness*/
+@media only screen and (max-width: 896px) {
+    #galleryBox {
+        width: 90%;
+        margin: auto;
+    }
+
+    .galleryContainer {
+        column-count: 1;
+    }
+
+    .modal {
+        padding: 1rem;
+    }
+}
+
+@media only screen and (min-width: 900px) and (max-width: 996px){
+    .galleryContainer {
+        width: 90%;
+        margin: auto;
+        column-count: 2;
+    }
+}

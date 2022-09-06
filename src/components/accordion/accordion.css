@@ -1,0 +1,37 @@
+#accordionContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.itemHeader {
+    display: flex;
+    justify-content: space-between;
+}
+
+#itemContent {
+    margin-bottom: 2rem;
+    margin-top: 0.5rem;
+    padding: 1.5rem 1rem;
+    background: #F4F4F4;
+    border-radius: 1.25rem;
+}
+
+.itemHeader > span > button {
+    align-items: center;
+    justify-content: center;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+.itemHeader > span > button > img {
+    width: 1rem;
+    height: auto;
+    opacity: 1;
+    transition: opacity 0.3s ease-in-out 0s;
+}
+
+.itemHeader > span > button > img:hover {
+    opacity: 0.5;
+}

@@ -1,0 +1,8 @@
+#errorContainer {
+    background-image: url('../../assets/error-bg.png');
+    height: 100%;
+    width: auto;
+    padding: 20rem 3rem;
+    margin: auto;
+    text-align: center;
+}

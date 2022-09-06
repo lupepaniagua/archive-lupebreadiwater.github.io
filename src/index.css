@@ -1,0 +1,216 @@
+/* HK Grotesk Font*/
+@font-face {
+    font-family: 'HK Grotesk';
+    src: url('./assets/fonts/HKGrotesk/HKGrotesk-MediumLegacy.eot');
+    src: local('HK Grotesk Medium Legacy'), local('HKGrotesk-MediumLegacy'),
+        url('./assets/fonts/HKGrotesk/HKGrotesk-MediumLegacy.eot?#iefix') format('embedded-opentype'),
+        url('./assets/fonts/HKGrotesk/HKGrotesk-MediumLegacy.woff2') format('woff2'),
+        url('./assets/fonts/HKGrotesk/HKGrotesk-MediumLegacy.woff') format('woff'),
+        url('./assets/fonts/HKGrotesk/HKGrotesk-MediumLegacy.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HK Grotesk';
+    src: url('./assets/fonts/HKGrotesk/HKGrotesk-BoldLegacyItalic.eot');
+    src: local('HK Grotesk Bold Legacy Italic'), local('HKGrotesk-BoldLegacyItalic'),
+        url('./assets/fonts/HKGrotesk/HKGrotesk-BoldLegacyItalic.eot?#iefix') format('embedded-opentype'),
+        url('./assets/fonts/HKGrotesk/HKGrotesk-BoldLegacyItalic.woff2') format('woff2'),
+        url('./assets/fonts/HKGrotesk/HKGrotesk-BoldLegacyItalic.woff') format('woff'),
+        url('./assets/fonts/HKGrotesk/HKGrotesk-BoldLegacyItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'HK Grotesk';
+    src: url('./assets/fonts/HKGrotesk/HKGrotesk-SemiBoldLegacy.eot');
+    src: local('HK Grotesk SemiBold Legacy'), local('HKGrotesk-SemiBoldLegacy'),
+        url('./assets/fonts/HKGrotesk/HKGrotesk-SemiBoldLegacy.eot?#iefix') format('embedded-opentype'),
+        url('./assets/fonts/HKGrotesk/HKGrotesk-SemiBoldLegacy.woff2') format('woff2'),
+        url('./assets/fonts/HKGrotesk/HKGrotesk-SemiBoldLegacy.woff') format('woff'),
+        url('./assets/fonts/HKGrotesk/HKGrotesk-SemiBoldLegacy.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HK Grotesk';
+    src: url('./assets/fonts/HKGrotesk/HKGrotesk-SemiBoldLegacyItalic.eot');
+    src: local('HK Grotesk SemiBold Legacy Italic'), local('HKGrotesk-SemiBoldLegacyItalic'),
+        url('./assets/fonts/HKGrotesk/HKGrotesk-SemiBoldLegacyItalic.eot?#iefix') format('embedded-opentype'),
+        url('./assets/fonts/HKGrotesk/HKGrotesk-SemiBoldLegacyItalic.woff2') format('woff2'),
+        url('./assets/fonts/HKGrotesk/HKGrotesk-SemiBoldLegacyItalic.woff') format('woff'),
+        url('./assets/fonts/HKGrotesk/HKGrotesk-SemiBoldLegacyItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'HK Grotesk';
+    src: url('./assets/fonts/HKGrotesk/HKGrotesk-BoldLegacy.eot');
+    src: local('HK Grotesk Bold Legacy'), local('HKGrotesk-BoldLegacy'),
+        url('./assets/fonts/HKGrotesk/HKGrotesk-BoldLegacy.eot?#iefix') format('embedded-opentype'),
+        url('./assets/fonts/HKGrotesk/HKGrotesk-BoldLegacy.woff2') format('woff2'),
+        url('./assets/fonts/HKGrotesk/HKGrotesk-BoldLegacy.woff') format('woff'),
+        url('./assets/fonts/HKGrotesk/HKGrotesk-BoldLegacy.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HK Grotesk';
+    src: url('./assets/fonts/HKGrotesk/HKGrotesk-MediumLegacyItalic.eot');
+    src: local('HK Grotesk Medium Legacy Italic'), local('HKGrotesk-MediumLegacyItalic'),
+        url('./assets/fonts/HKGrotesk/HKGrotesk-MediumLegacyItalic.eot?#iefix') format('embedded-opentype'),
+        url('./assets/fonts/HKGrotesk/HKGrotesk-MediumLegacyItalic.woff2') format('woff2'),
+        url('./assets/fonts/HKGrotesk/HKGrotesk-MediumLegacyItalic.woff') format('woff'),
+        url('./assets/fonts/HKGrotesk/HKGrotesk-MediumLegacyItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+/* ABC Whyte Inktrap Font*/
+@font-face {
+    font-family: 'ABC Whyte Inktrap';
+    src: url('./assets/fonts/ABCWhyteInkTrap/ABCWhyteInktrap-Bold.woff');
+    src: local('ABC Whyte Inktrap Bold'), local('ABCWhyteInktrap-Bold'),
+        url('./assets/fonts/ABCWhyteInkTrap/ABCWhyteInktrap-Bold.woff2') format('woff2'),
+        url('./assets/fonts/ABCWhyteInkTrap/ABCWhyteInktrap-Bold.woff') format('woff'),
+        url('./assets/fonts/ABCWhyteInkTrap/ABCWhyteInktrap-Bold.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ABC Whyte Inktrap';
+    src: url('./assets/fonts/ABCWhyteInkTrap/ABCWhyteInktrap-BoldItalic.woff');
+    src: local('ABC Whyte Inktrap Bold Italic'), local('ABCWhyteInktrap-BoldItalic'),
+        url('./assets/fonts/ABCWhyteInkTrap/ABCWhyteInktrap-BoldItalic.woff2') format('woff2'),
+        url('./assets/fonts/ABCWhyteInkTrap/ABCWhyteInktrap-BoldItalic.woff') format('woff'),
+        url('./assets/fonts/ABCWhyteInkTrap/ABCWhyteInktrap-BoldItalic.otf') format('opentype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'ABC Whyte Inktrap';
+    src: url('./assets/fonts/ABCWhyteInkTrap/ABCWhyteInktrap-Medium.woff');
+    src: local('ABC Whyte Inktrap Medium'), local('ABCWhyteInktrap-Medium'),
+        url('./assets/fonts/ABCWhyteInkTrap/ABCWhyteInktrap-Medium.woff2') format('woff2'),
+        url('./assets/fonts/ABCWhyteInkTrap/ABCWhyteInktrap-Medium.woff') format('woff'),
+        url('./assets/fonts/ABCWhyteInkTrap/ABCWhyteInktrap-Medium.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ABC Whyte Inktrap';
+    src: url('./assets/fonts/ABCWhyteInkTrap/ABCWhyteInktrap-MediumItalic.woff');
+    src: local('ABC Whyte Inktrap Medium'), local('ABCWhyteInktrap-MediumItalic'),
+        url('./assets/fonts/ABCWhyteInkTrap/ABCWhyteInktrap-MediumItalic.woff2') format('woff2'),
+        url('./assets/fonts/ABCWhyteInkTrap/ABCWhyteInktrap-MediumItalic.woff') format('woff'),
+        url('./assets/fonts/ABCWhyteInkTrap/ABCWhyteInktrap-MediumItalic.otf') format('opentype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'ABC Whyte Inktrap';
+    src: url('./assets/fonts/ABCWhyteInkTrap/ABCWhyteInktrap-Regular.woff');
+    src: local('ABC Whyte Inktrap Regular'), local('ABCWhyteInktrap-Regular'),
+        url('./assets/fonts/ABCWhyteInkTrap/ABCWhyteInktrap-Regular.woff2') format('woff2'),
+        url('./assets/fonts/ABCWhyteInkTrap/ABCWhyteInktrap-Regular.woff') format('woff'),
+        url('./assets/fonts/ABCWhyteInkTrap/ABCWhyteInktrap-Regular.otf') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ABC Whyte Inktrap';
+    src: url('./assets/fonts/ABCWhyteInkTrap/ABCWhyteInktrap-RegularItalic.woff');
+    src: local('ABC Whyte Inktrap Regular Italic'), local('ABCWhyteInktrap-RegularItalic'),
+        url('./assets/fonts/ABCWhyteInkTrap/ABCWhyteInktrap-RegularItalic.woff2') format('woff2'),
+        url('./assets/fonts/ABCWhyteInkTrap/ABCWhyteInktrap-RegularItalic.woff') format('woff'),
+        url('./assets/fonts/ABCWhyteInkTrap/ABCWhyteInktrap-RegularItalic.otf') format('opentype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+
+/* Index Styling Here*/
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    overflow: auto;
+}
+
+.emphasized {
+    font-style: italic;
+}
+
+.bolded {
+    font-weight: bold;
+}
+
+p, h1, h2, h3, h4, h5 {
+    margin: 0;
+    font-style: normal;
+}
+
+p {
+    font-family: 'HK Grotesk';
+    font-weight: normal;
+    line-height: 150%;
+}
+
+h1 {
+    font-family: 'ABC Whyte Inktrap';
+    font-weight: bold;
+    font-size: 2.5em;
+    line-height: 120%;
+}
+
+h2 {
+    font-family: 'ABC Whyte Inktrap';
+    font-weight: normal;
+    font-size: 2em;
+    line-height: 130%;
+}
+
+h3 {
+    font-family: 'ABC Whyte Inktrap';
+    font-weight: normal;
+    font-size: 1.5em;
+    line-height: 130%;
+}
+
+h4 {
+    font-family: 'HK Grotesk';
+    font-weight: normal;
+    font-size: 1.5em;
+    line-height: 130%;
+}
+
+h5 {
+    font-family: 'HK Grotesk';
+    font-weight: normal;
+    font-size: 1.25em;
+    line-height: 130%;
+}
+
+.largeBody {
+    font-size: 1.125em;
+}
+
+.smallBody {
+    font-size: 0.875em;
+}
+
+.italicBody {
+    font-style: italic;
+}

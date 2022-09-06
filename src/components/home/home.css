@@ -1,0 +1,27 @@
+#landingContainer {
+    margin: 14rem 7.5rem 7.5rem 7.5rem;
+    width: auto;
+}
+
+.blueText {
+    color: #2354BB;
+}
+
+#roundGreyBox {
+    background-color: #F4F4F4;
+    color: #8F8F8F;
+    border-radius: 1.25rem;
+    padding: 1rem;
+    margin-top: 2rem;
+    display: inline-block;
+}
+
+
+/* media viewport responsiveness*/
+@media only screen and (max-width: 896px) {
+    #landingContainer {
+        width: 90%;
+        margin: 5rem 1rem 4rem 1rem;
+    }
+}
+

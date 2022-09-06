@@ -1,0 +1,42 @@
+#rightBox {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    text-align: end;
+}
+
+#rightBox h2,p {
+    margin: 0;
+}
+
+#rightBox h2 {
+    font-family: 'ABC Whyte Inktrap';
+    font-weight: normal;
+    font-style: italic;
+}
+
+
+#rightBox a {
+    color: white;
+    text-decoration: none;
+    transition: opacity 0.3s ease-in-out 0s;
+}
+
+#rightBox a:hover {
+    text-decoration: underline;
+    opacity: 0.5;
+}
+
+#smallerBox {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+
+/* media viewport responsiveness*/
+@media only screen and (max-width: 896px) {
+    #rightBox {
+        text-align: left;
+    }
+}
