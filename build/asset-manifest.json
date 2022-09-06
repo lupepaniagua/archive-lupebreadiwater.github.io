@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.21a38ae0.css",
+    "main.css": "/static/css/main.c61534c7.css",
     "main.js": "/static/js/main.ca709bc0.js",
     "static/media/identity-crisis.png": "/static/media/identity-crisis.e45c2770b43350e4565c.png",
     "static/media/jellyfish.png": "/static/media/jellyfish.b3e556bdfe48f4697c2b.png",
@@ -76,11 +76,11 @@
     "static/media/plusIcon.svg": "/static/media/plusIcon.481284ec2731d495c06323850f0123eb.svg",
     "index.html": "/index.html",
     "static/media/minusIcon.svg": "/static/media/minusIcon.71bfe68de2b0ac2f474d1fab1010aa78.svg",
-    "main.21a38ae0.css.map": "/static/css/main.21a38ae0.css.map",
+    "main.c61534c7.css.map": "/static/css/main.c61534c7.css.map",
     "main.ca709bc0.js.map": "/static/js/main.ca709bc0.js.map"
   },
   "entrypoints": [
-    "static/css/main.21a38ae0.css",
+    "static/css/main.c61534c7.css",
     "static/js/main.ca709bc0.js"
   ]
 }
