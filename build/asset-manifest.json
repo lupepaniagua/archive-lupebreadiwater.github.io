@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c61534c7.css",
-    "main.js": "/static/js/main.ca709bc0.js",
+    "main.js": "/static/js/main.8e42bad5.js",
     "static/media/identity-crisis.png": "/static/media/identity-crisis.e45c2770b43350e4565c.png",
     "static/media/jellyfish.png": "/static/media/jellyfish.b3e556bdfe48f4697c2b.png",
     "static/media/neighbourhood.png": "/static/media/neighbourhood.672ceb6030c7c85f9621.png",
@@ -21,7 +21,7 @@
     "static/media/what-it-is.png": "/static/media/what-it-is.5181d3708d70d3b0b8bd.png",
     "static/media/citizen-concert.png": "/static/media/citizen-concert.09ca39d06d922196619d.png",
     "static/media/citizen-gradient.png": "/static/media/citizen-gradient.84574cecf37841a5c3c3.png",
-    "static/media/resume-lupepaniagua.pdf": "/static/media/resume-lupepaniagua.c50593a94b41ded8c451.pdf",
+    "static/media/resume-lupepaniagua.pdf": "/static/media/resume-lupepaniagua.0fe80e39f4c6ca0c35a1.pdf",
     "static/media/error-bg.png": "/static/media/error-bg.e1fef8c9163a8bb80fe0.png",
     "static/media/me.png": "/static/media/me.c6a8f5b8e3f6166db080.png",
     "static/media/sleep.png": "/static/media/sleep.f57ddd488673d414bb2a.png",
@@ -77,10 +77,10 @@
     "index.html": "/index.html",
     "static/media/minusIcon.svg": "/static/media/minusIcon.71bfe68de2b0ac2f474d1fab1010aa78.svg",
     "main.c61534c7.css.map": "/static/css/main.c61534c7.css.map",
-    "main.ca709bc0.js.map": "/static/js/main.ca709bc0.js.map"
+    "main.8e42bad5.js.map": "/static/js/main.8e42bad5.js.map"
   },
   "entrypoints": [
     "static/css/main.c61534c7.css",
-    "static/js/main.ca709bc0.js"
+    "static/js/main.8e42bad5.js"
   ]
 }
