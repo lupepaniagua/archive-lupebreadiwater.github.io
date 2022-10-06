@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c61534c7.css",
-    "main.js": "/static/js/main.62fb0ebe.js",
+    "main.css": "/static/css/main.4984ef3e.css",
+    "main.js": "/static/js/main.f0204b9f.js",
     "static/media/identity-crisis.png": "/static/media/identity-crisis.e45c2770b43350e4565c.png",
     "static/media/jellyfish.png": "/static/media/jellyfish.b3e556bdfe48f4697c2b.png",
     "static/media/neighbourhood.png": "/static/media/neighbourhood.672ceb6030c7c85f9621.png",
@@ -76,11 +76,11 @@
     "static/media/plusIcon.svg": "/static/media/plusIcon.481284ec2731d495c06323850f0123eb.svg",
     "index.html": "/index.html",
     "static/media/minusIcon.svg": "/static/media/minusIcon.71bfe68de2b0ac2f474d1fab1010aa78.svg",
-    "main.c61534c7.css.map": "/static/css/main.c61534c7.css.map",
-    "main.62fb0ebe.js.map": "/static/js/main.62fb0ebe.js.map"
+    "main.4984ef3e.css.map": "/static/css/main.4984ef3e.css.map",
+    "main.f0204b9f.js.map": "/static/js/main.f0204b9f.js.map"
   },
   "entrypoints": [
-    "static/css/main.c61534c7.css",
-    "static/js/main.62fb0ebe.js"
+    "static/css/main.4984ef3e.css",
+    "static/js/main.f0204b9f.js"
   ]
 }
