@@ -1,4 +1,5 @@
 import React from 'react'
+import resume from '../../../assets/resume-lupepaniagua.pdf'
 import './right.css'
 
 export default function Right() {
@@ -7,7 +8,7 @@ export default function Right() {
         <h2 className='emphasized'>
             check out my
             <span> </span>
-            <a href=''>
+            <a href={resume} target='_blank'>
                  resume
             </a>, pls
         </h2>

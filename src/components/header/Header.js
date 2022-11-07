@@ -4,10 +4,11 @@ import wordmark from '../../assets/wordmark.svg'
 import resume from '../../assets/resume-lupepaniagua.pdf'
 import './header.css'
 
+
 export default function Header() {
   return (
     <div className='headerContainer'>
-        <img src={wordmark} />
+        <img src={wordmark} alt=" " />
         <div id='navBar'>
             <NavLink to='/' className={({ isActive }) => (isActive ? "activePage" : "inactivePage")}>
                 home
