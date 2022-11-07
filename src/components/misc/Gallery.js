@@ -73,12 +73,12 @@ let imgData = [
     {
       id: 1,
       imgSrc: item1,
-      imgText: "Concept poster inspired by Citizen's 'Glass World.'",
+      imgText: "Concept tour poster for Mat Kerekes' Fall 2022 US Tour",
     },
     {
       id: 2,
       imgSrc: item2,
-      imgText: "Concept poster inspired by Mat Kereke's 'The Art of Living.'",
+      imgText: "Concept poster inspired by The 1975's 'Human Too.'",
     },
     {
       id: 3,
@@ -88,7 +88,7 @@ let imgData = [
     {
       id: 4,
       imgSrc: item4,
-      imgText: "Concept poster inspired by Citizen's LIYGW Tour. I saw them on Nov 24, 2021. Pictures taken by me.",
+      imgText: "Concept poster inspired by Citizen's 'Glass World.'",
     },
     {
       id: 5,
@@ -108,12 +108,12 @@ let imgData = [
     {
       id: 8,
       imgSrc: item8,
-      imgText: 'Dull Knife, 2021. (@lucidlu.psd on IG)',
+      imgText: "Concept poster inspired by The 1975's 'When We Are Together.'",
     },
     {
       id: 9,
       imgSrc: item9,
-      imgText: 'Concept poster of Citizen, 2021. Type by me.',
+      imgText: 'Concept poster of Mat Kerekes, 2022.',
     },
     {
       id: 10,
@@ -128,7 +128,7 @@ let imgData = [
     {
       id: 12,
       imgSrc: item12,
-      imgText: "It's Okay, 2022. (@lucidlu.psd on IG)",
+      imgText: "Concept poster inspired by Knuckle Puck's 'Untitled.'",
     },
     {
       id: 13,
@@ -138,12 +138,14 @@ let imgData = [
     {
       id: 14,
       imgSrc: item14,
-      imgText: 'Jellyfish, 2022. (@lucidlu.psd on IG)',
+      imgText: "Concept poster inspired by Citizen's LIYGW Tour. I saw them on Nov 24, 2021. Pictures taken by me.",
     },
     {
       id: 15,
       imgSrc: item15,
-      imgText: 'Concept poster of Mat Kerekes, 2022.',
+      imgText: "Concept poster inspired by Turnover's 'Myself in the Way.'",
+
+
     },
     {
       id: 16,
@@ -163,17 +165,17 @@ let imgData = [
     {
       id: 19,
       imgSrc: item19,
-      imgText: 'It Is What It Is, 2021. (@lucidlu.psd on IG)',
+      imgText: 'Funk It Up, 2022. (@lucidlu.psd on IG)',
     },
     {
       id: 20,
       imgSrc: item20,
-      imgText: 'Funk It Up, 2022. (@lucidlu.psd on IG)',
+      imgText: 'It Is What It Is, 2021. (@lucidlu.psd on IG)',
     },
     {
       id: 21,
       imgSrc: item21,
-      imgText: "Concept poster inspired by Knuckle Puck's 'Untitled.'",
+      imgText: "It's Okay, 2022. (@lucidlu.psd on IG)",
     },
     {
       id: 22,
@@ -188,7 +190,7 @@ let imgData = [
     {
       id: 24,
       imgSrc: item24,
-      imgText: "Concept poster inspired by The 1975's 'Human Too.'",
+      imgText: "Concept poster inspired by Mat Kereke's 'The Art of Living.'",
     },
     {
       id: 25,
@@ -198,16 +200,16 @@ let imgData = [
     {
       id: 26,
       imgSrc: item26,
-      imgText: "Concept poster inspired by The 1975's 'When We Are Together.'",
+      imgText: 'Dull Knife, 2021. (@lucidlu.psd on IG)',
     },
     {
       id: 27,
       imgSrc: item27,
-      imgText: "Concept poster inspired by Turnover's 'Myself in the Way.'",
+      imgText: 'Concept poster of Citizen, 2021. Type by me.',
     },
     {
       id: 28,
       imgSrc: item28,
-      imgText: "Concept tour poster for Mat Kerekes' Fall 2022 US Tour",
+      imgText: 'Jellyfish, 2022. (@lucidlu.psd on IG)',
     },
   ]
