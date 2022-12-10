@@ -37,8 +37,8 @@ export default function About() {
                         </div>
                         <p> currently playing </p>
                     </div>
-                    <h4> Mat Kerekes </h4>
-                    <h5> Honky Tonk </h5>
+                    <h4> Ain't Love Heavy </h4>
+                    <h5> Turnover, Bre Morell </h5>
                 </div>
             </div>
             <div id='infoBlock'>
