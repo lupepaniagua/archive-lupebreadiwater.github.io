@@ -1,28 +1,41 @@
 {
   "files": {
     "main.css": "/static/css/main.4984ef3e.css",
-    "main.js": "/static/js/main.f0204b9f.js",
+    "main.js": "/static/js/main.a180c997.js",
     "static/media/identity-crisis.png": "/static/media/identity-crisis.e45c2770b43350e4565c.png",
     "static/media/jellyfish.png": "/static/media/jellyfish.b3e556bdfe48f4697c2b.png",
     "static/media/neighbourhood.png": "/static/media/neighbourhood.672ceb6030c7c85f9621.png",
     "static/media/art-of-living.png": "/static/media/art-of-living.9945356f80bfbbc9b603.png",
     "static/media/famous-actor.png": "/static/media/famous-actor.1d9ea763136a57682d90.png",
     "static/media/waldo.png": "/static/media/waldo.180288327183b9defa79.png",
+    "static/media/disco.png": "/static/media/disco.e03a0aad7f5f0a682be1.png",
     "static/media/glass-world.png": "/static/media/glass-world.8eb7da03472a38b0dd33.png",
     "static/media/its-okay.png": "/static/media/its-okay.9f1e392ebd181b683ab3.png",
     "static/media/black-eyed-peas.png": "/static/media/black-eyed-peas.00415fd41a05013b9f95.png",
     "static/media/harrys-house.png": "/static/media/harrys-house.2c8fed3dcad00d0785c9.png",
     "static/media/nova-album.png": "/static/media/nova-album.96ae3661e4b764b43464.png",
     "static/media/mat-kerekes.png": "/static/media/mat-kerekes.1ea8833dd11c43687cf9.png",
+    "static/media/copacetic.png": "/static/media/copacetic.4af5ed87400640f47dfb.png",
     "static/media/dont-look.png": "/static/media/dont-look.24aa100a3140b4e30c46.png",
     "static/media/turnover.png": "/static/media/turnover.d5b1a5f7d961c395619b.png",
     "static/media/beauty-in-tragedy.png": "/static/media/beauty-in-tragedy.e10df8e728dda87ae6b1.png",
     "static/media/dull-knife.png": "/static/media/dull-knife.689f1b5f0c4dd816ad1c.png",
     "static/media/what-it-is.png": "/static/media/what-it-is.5181d3708d70d3b0b8bd.png",
     "static/media/citizen-concert.png": "/static/media/citizen-concert.09ca39d06d922196619d.png",
+    "static/media/tlou.png": "/static/media/tlou.4c51a795a8fd30cc5db5.png",
+    "static/media/spinning.png": "/static/media/spinning.6ded9b2f54db939954bd.png",
+    "static/media/emotional-sickness.png": "/static/media/emotional-sickness.46031b33a7cfb8f45ef2.png",
     "static/media/citizen-gradient.png": "/static/media/citizen-gradient.84574cecf37841a5c3c3.png",
+    "static/media/myself-in-the-way.png": "/static/media/myself-in-the-way.51098b3274094e706aae.png",
+    "static/media/dont-love-you.png": "/static/media/dont-love-you.4e3f36b3fbe98171ce6c.png",
+    "static/media/mktour.png": "/static/media/mktour.a02564c96b1fc7df8dd4.png",
+    "static/media/exhausted.png": "/static/media/exhausted.dbf25c795f74ed7ea9bd.png",
     "static/media/resume-lupepaniagua.pdf": "/static/media/resume-lupepaniagua.0fe80e39f4c6ca0c35a1.pdf",
+    "static/media/anything-goes.png": "/static/media/anything-goes.40067f88e48e5a5ea2c2.png",
+    "static/media/when-together.png": "/static/media/when-together.9dc045668108c81f46fe.png",
+    "static/media/layers.png": "/static/media/layers.5e74bd9ad06f87a079db.png",
     "static/media/error-bg.png": "/static/media/error-bg.e1fef8c9163a8bb80fe0.png",
+    "static/media/human.png": "/static/media/human.8e7cbaa702fccce37a20.png",
     "static/media/me.png": "/static/media/me.c6a8f5b8e3f6166db080.png",
     "static/media/sleep.png": "/static/media/sleep.f57ddd488673d414bb2a.png",
     "static/media/work-study.png": "/static/media/work-study.4cc69dfeac8411e573bb.png",
@@ -77,10 +90,10 @@
     "index.html": "/index.html",
     "static/media/minusIcon.svg": "/static/media/minusIcon.71bfe68de2b0ac2f474d1fab1010aa78.svg",
     "main.4984ef3e.css.map": "/static/css/main.4984ef3e.css.map",
-    "main.f0204b9f.js.map": "/static/js/main.f0204b9f.js.map"
+    "main.a180c997.js.map": "/static/js/main.a180c997.js.map"
   },
   "entrypoints": [
     "static/css/main.4984ef3e.css",
-    "static/js/main.f0204b9f.js"
+    "static/js/main.a180c997.js"
   ]
 }
