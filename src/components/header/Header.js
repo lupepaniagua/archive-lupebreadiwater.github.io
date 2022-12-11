@@ -10,7 +10,7 @@ export default function Header() {
     <div className='headerContainer'>
         <img src={wordmark} alt=" " />
         <div id='navBar'>
-            <NavLink to='/' className={({ isActive }) => (isActive ? "activePage" : "inactivePage")}>
+            <NavLink end to='/' className={({ isActive }) => (isActive ? "activePage" : "inactivePage")}>
                 home
             </NavLink>
             <NavLink to='/work' className={({ isActive }) => (isActive ? "activePage" : "inactivePage")}>
