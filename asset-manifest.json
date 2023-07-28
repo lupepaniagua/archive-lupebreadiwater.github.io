@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.4984ef3e.css",
-    "main.js": "/static/js/main.46793dcb.js",
+    "main.css": "/static/css/main.bc740306.css",
+    "main.js": "/static/js/main.7c5efa2f.js",
     "static/media/identity-crisis.png": "/static/media/identity-crisis.e45c2770b43350e4565c.png",
     "static/media/jellyfish.png": "/static/media/jellyfish.b3e556bdfe48f4697c2b.png",
     "static/media/neighbourhood.png": "/static/media/neighbourhood.672ceb6030c7c85f9621.png",
@@ -24,19 +24,20 @@
     "static/media/citizen-concert.png": "/static/media/citizen-concert.09ca39d06d922196619d.png",
     "static/media/tlou.png": "/static/media/tlou.4c51a795a8fd30cc5db5.png",
     "static/media/spinning.png": "/static/media/spinning.6ded9b2f54db939954bd.png",
+    "static/media/YYLAS.png": "/static/media/YYLAS.be430222db9b7d3e87f5.png",
     "static/media/emotional-sickness.png": "/static/media/emotional-sickness.46031b33a7cfb8f45ef2.png",
     "static/media/citizen-gradient.png": "/static/media/citizen-gradient.84574cecf37841a5c3c3.png",
     "static/media/myself-in-the-way.png": "/static/media/myself-in-the-way.51098b3274094e706aae.png",
     "static/media/dont-love-you.png": "/static/media/dont-love-you.4e3f36b3fbe98171ce6c.png",
     "static/media/mktour.png": "/static/media/mktour.a02564c96b1fc7df8dd4.png",
     "static/media/exhausted.png": "/static/media/exhausted.dbf25c795f74ed7ea9bd.png",
-    "static/media/resume-lupepaniagua.pdf": "/static/media/resume-lupepaniagua.0fe80e39f4c6ca0c35a1.pdf",
     "static/media/anything-goes.png": "/static/media/anything-goes.40067f88e48e5a5ea2c2.png",
+    "static/media/resume-lupepaniagua.pdf": "/static/media/resume-lupepaniagua.80af154ce75829e10d2c.pdf",
     "static/media/when-together.png": "/static/media/when-together.9dc045668108c81f46fe.png",
     "static/media/layers.png": "/static/media/layers.5e74bd9ad06f87a079db.png",
     "static/media/error-bg.png": "/static/media/error-bg.e1fef8c9163a8bb80fe0.png",
+    "static/media/me.png": "/static/media/me.a50d7a6f1860e0ede80a.png",
     "static/media/human.png": "/static/media/human.8e7cbaa702fccce37a20.png",
-    "static/media/me.png": "/static/media/me.c6a8f5b8e3f6166db080.png",
     "static/media/sleep.png": "/static/media/sleep.f57ddd488673d414bb2a.png",
     "static/media/work-study.png": "/static/media/work-study.4cc69dfeac8411e573bb.png",
     "static/media/ABCWhyteInktrap-MediumItalic.otf": "/static/media/ABCWhyteInktrap-MediumItalic.f706d0a8f5c80919bfb9.otf",
@@ -83,17 +84,14 @@
     "static/media/HKGrotesk-BoldLegacy.woff2": "/static/media/HKGrotesk-BoldLegacy.08ee3348cc58c429e235.woff2",
     "static/media/bfi.png": "/static/media/bfi.25e0430a35ec6312e585.png",
     "static/media/emocha.png": "/static/media/emocha.8989173c5d4ab78e3ac5.png",
-    "static/media/wordmark.svg": "/static/media/wordmark.d86fab41a9b3d06bd008dfa7ceafbffe.svg",
     "static/media/spotify.svg": "/static/media/spotify.40880c125b8f9d61e755bff73c853816.svg",
     "static/media/closeIcon.svg": "/static/media/closeIcon.ed66534e96aa1ab911df17ae7dd041df.svg",
-    "static/media/plusIcon.svg": "/static/media/plusIcon.481284ec2731d495c06323850f0123eb.svg",
     "index.html": "/index.html",
-    "static/media/minusIcon.svg": "/static/media/minusIcon.71bfe68de2b0ac2f474d1fab1010aa78.svg",
-    "main.4984ef3e.css.map": "/static/css/main.4984ef3e.css.map",
-    "main.46793dcb.js.map": "/static/js/main.46793dcb.js.map"
+    "main.bc740306.css.map": "/static/css/main.bc740306.css.map",
+    "main.7c5efa2f.js.map": "/static/js/main.7c5efa2f.js.map"
   },
   "entrypoints": [
-    "static/css/main.4984ef3e.css",
-    "static/js/main.46793dcb.js"
+    "static/css/main.bc740306.css",
+    "static/js/main.7c5efa2f.js"
   ]
 }
